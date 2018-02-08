@@ -1,0 +1,42 @@
+
+//	Celal TEMIZ
+//  101044070
+//  SİSTEM PROGRAMLAMA FİNAL PROJESİ
+
+
+
+1) Klasör içerisindeki makefile ile proje derlenir. server ve clients programlarının çalıştırılabilir dosyaları oluşturulur.
+
+
+
+2) Server programı için  
+	
+	- 	./server <port #, id> <thpool size, k > ile program çalıştırılarak ilgili port dinlenmeye başlayacaktır.
+
+	- 	Port ID 5 haneli bir değer olmalıdır. ( 11146, 12345, 34532 ... )
+
+
+
+3) Server' a, dinlediği port üzerinden bağlantı sağlamak için clients programı çalıştırılır. 
+
+./clients <127.0.0.1> <port #, id> <#of columns of A, m> <#of rows of A, p> <#of clients, q> formatıyla çalıştırarak bağlantı sağlanır.
+
+Client için Port ID bilgisini de ekleyebileceğimiz derste belirtilmişti.
+
+
+
+4) Program birden fazla, çok sayıda client ile çalışabilmektedir. 
+
+
+5) Her gelen client için 1 tane thread oluşturup, thread ID değerleri terminale yazılmaktadır.
+
+	-   Semaphore yapısı kullanılmıştır.
+
+
+6) CTRL + C komutu 
+
+	- Projede istendiği şekilde çalışmaktadır. Server'da geldiği zaman o an server'a bağlı olan bütün client'lar sonlandırılır.
+	- Client tarafında geldiği zaman, server bundan etkilenmez ve sadece ilgili client sonlanır.
+
+
+7) Projede istenen P1, P2, P3 processlerinin paralel çalışması ve senkronizasyonu sağlanamadığı için ilgili kısımlar çıkarılmıştır.

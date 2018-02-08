@@ -1,0 +1,51 @@
+
+
+
+	** Sistem Programlama Dersi Vize Projesi **
+
+
+	1_ Projeyi calistirirken once timerServer' i calisitirin.
+
+	2_ Ardından seeWhat' i calistirin. Bu baglanti saglandiktan sonra matrix uretilmeye baslanicaktir.
+	   Ve program sizden showResult' i calistirmaniz icin bekleyecektir.
+
+	3_ ShowResult' i calistirin.
+	   Bu noktada sonuclarimi Show Result'a yazma konusunda hata vardir.
+
+	4_ Programimda timer, signalAlarm ve Ctrl + C handle vardir.
+		
+	5_ Timer server , seeWhat programlari ctrl+c sinyali yakaladiklarinda program sonlanmaktadir.
+
+	6_ Kullanmis oldugum kernel matris 3x3 olup, elemanlari {0,-1,-1}, {1,0,-1}, {1,1,0} 
+       Sinifta belirtilen fomrmatlardan birini secmemiz istendi.
+
+	7_ Processlerin birbiri arasinda veri alisverisleri FIFO lar araciligiyla saglanmaktadir.
+
+
+
+		// 2D Convolution 
+
+		In mathematics (and, in particular, functional analysis) convolution is a mathematical operation on two functions (f and g); it produces a third function, that is typically viewed as a modified version of one of the original functions, giving the integral of the pointwise multiplication of the two functions as a function of the amount that one of the original functions is translated. Convolution is similar to cross-correlation. It has applications that include probability, statistics, computer vision, natural language processing, image and signal processing, engineering, and differential equations.
+		Convolution and related operations are found in many applications in science, engineering and mathematics.
+
+		In image processing
+		In digital image processing convolutional filtering plays an important role in many important algorithms in edge detection and related processes.
+		In optics, an out-of-focus photograph is a convolution of the sharp image with a lens function. The photographic term for this is bokeh.
+		In image processing applications such as adding blurring.
+		In digital data processing
+		In analytical chemistry, Savitzky–Golay smoothing filters are used for the analysis of spectroscopic data. They can improve signal-to-noise ratio with minimal distortion of the spectra.
+		In statistics, a weighted moving average is a convolution.
+		In acoustics, reverberation is the convolution of the original sound with echoes from objects surrounding the sound source.
+		In digital signal processing, convolution is used to map the impulse response of a real room on a digital audio signal.
+		In electronic music convolution is the imposition of a spectral or rhythmic structure on a sound. Often this envelope or structure is taken from another sound. The convolution of two signals is the filtering of one through the other.[17]
+		In electrical engineering, the convolution of one function (the input signal) with a second function (the impulse response) gives the output of a linear time-invariant system (LTI). At any given moment, the output is an accumulated effect of all the prior values of the input function, with the most recent values typically having the most influence (expressed as a multiplicative factor). The impulse response function provides that factor as a function of the elapsed time since each input value occurred.
+		In physics, wherever there is a linear system with a "superposition principle", a convolution operation makes an appearance. For instance, in spectroscopy line broadening due to the Doppler effect on its own gives a Gaussian spectral line shape and collision broadening alone gives a Lorentzian line shape. When both effects are operative, the line shape is a convolution of Gaussian and Lorentzian, a Voigt function.
+		In Time-resolved fluorescence spectroscopy, the excitation signal can be treated as a chain of delta pulses, and the measured fluorescence is a sum of exponential decays from each delta pulse.
+		In computational fluid dynamics, the large eddy simulation (LES) turbulence model uses the convolution operation to lower the range of length scales necessary in computation thereby reducing computational cost.
+		In probability theory, the probability distribution of the sum of two independent random variables is the convolution of their individual distributions.
+		In kernel density estimation, a distribution is estimated from sample points by convolution with a kernel, such as an isotropic Gaussian. (Diggle 1995).
+		In radiotherapy treatment planning systems, most part of all modern codes of calculation applies a convolution-superposition algorithm.[clarification needed]
+		Convolutional neural networks apply multiple cascaded convolution kernels with applications in machine vision and artificial intelligence
+
+
+

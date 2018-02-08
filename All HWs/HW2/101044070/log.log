@@ -1,0 +1,10 @@
+dir1//dir2/dir4/Gt2.txt:	[1087, 45] seller first character is found.
+dir1//dir2/dir4/Gt2.txt:	[1090, 21] seller first character is found.
+dir1//dir2/dir3/Gt2.txt:	[1087, 45] seller first character is found.
+dir1//dir2/dir3/Gt2.txt:	[1090, 21] seller first character is found.
+dir1//dir2/Gt2.txt:	[1087, 45] seller first character is found.
+dir1//dir2/Gt2.txt:	[1090, 21] seller first character is found.
+dir1//Gt2.txt:	[1087, 45] seller first character is found.
+dir1//Gt2.txt:	[1090, 21] seller first character is found.
+
+8 seller were found in total.
