@@ -17,7 +17,7 @@
 		   - Message Queue,
 		   - Shared Memory,						
 
-		   	 mekanizmalari kullanilmistir.
+		  			yapilari kullanilmistir.
 
 
 
