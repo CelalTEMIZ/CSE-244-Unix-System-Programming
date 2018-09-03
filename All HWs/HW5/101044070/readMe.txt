@@ -46,4 +46,4 @@
 --> Ornek olarak testDir klasoru kullanilmistir. 
 	
 	Icerisinde : bos klasorler, bos dosyalar , cok sayida icice klasorler 
-	ve farklı sekillerde konumlandirilmis aranacak stringleri iceren dosyalar mevcuttur.
+	ve farklı sekillerde konumlandirilmis aranacak stringleri iceren dosyalar bulunmaktadir.
