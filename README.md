@@ -11,5 +11,5 @@
 
 # Compilation
   
-  Program is compiled by gcc on Linux.
-  Homework and project folders includes a Makefile for compilation.
+  - Program is compiled by gcc on Linux.
+  - Homework and project folders includes a Makefile for compilation.
